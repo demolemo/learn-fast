@@ -1,0 +1,8 @@
+{
+  "name": "media-processor-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "webpack serve --mode development --open",
+    "build": "webpack --mode production"
+  }
+}
